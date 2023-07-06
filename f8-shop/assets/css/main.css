@@ -991,7 +991,7 @@
 .header__sort-link::before {
     content: "";
     position: absolute;
-    bottom: 0;
+    bottom: 1px;
     left: 0;
     width: calc(100% + 1px);
     border-bottom: 2px solid var(--primary-color);
